@@ -1,0 +1,2 @@
+Merge sort is more efficient for larger datasets. This is because merge sort uses a divide and conquer method, which is much more efficient
+than insetion sort. In smaller datasets the difference is minimal, but as the datasets grow, the difference is significant.

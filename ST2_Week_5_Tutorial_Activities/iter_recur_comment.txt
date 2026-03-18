@@ -1,0 +1,4 @@
+The recursive functions worked correctly for all three cases, but the iterative versions generally performed faster. 
+This is because iteration avoids the repeatition of function calls. 
+The recursive Fibonacci implementation was much slower for larger values because it recalculates the same smaller Fibonacci values many times.
+This shows that recursion is easier to read, but iteration is often more efficient for repeated computations.
